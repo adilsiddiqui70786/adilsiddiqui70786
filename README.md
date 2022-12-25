@@ -39,14 +39,18 @@
 
  |  Stats                                                                                                                                                                                             |  Stats                                                                                                                               |
 | -----------                                                                                                                                                                                        | -----------                                                                                                                          |
-| ![Mohd Adil](https://github-readme-stats.vercel.app/api?username=adilsiddiqui70786&show_icons=true&theme=dark&count_private=true&text_color=F5F3E4&icon_color=F26F2D&title_color=F26F2D)          | ![Mohd Adil](https://github-readme-streak-stats.herokuapp.com/?user=adilsiddiqui70786&theme=dark&hide_border=true&background=010811&fire=F26F2D&ring=F3CCAE&stroke=F5F3E4&currStreakLabel=F26F2D&sideNums=F26F2D&sideLabels=F3CCAE)       |
+| ![Mohd Adil](https://github-readme-stats.vercel.app/api?username=adilsiddiqui70786&show_icons=true&theme=dark&count_private=true&text_color=F5F3E4&icon_color=F26F2D&title_color=F26F2D)          | ![Mohd Adil](https://github-readme-streak-stats.herokuapp.com/?user=adilsiddiqui70786&theme=dark&hide_border=true&background=010811&fire=F26F2D&ring=F3CCAE&stroke=F5F3E4&currStreakLabel=F26F2D&sideNums=F26F2D&sideLabels=F3CCAE)  |
 | ![Mohd Adil](https://github-readme-stats.vercel.app/api/top-langs/?username=adilsiddiqui70786&layout=compact&theme=dark&langs_count=6&count_private=true&text_color=F5F3E4&title_color=F3CCAE)   | ![Mohd Adil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adilsiddiqui70786&theme=gruvbox)        |
-
 <!-- Contribution Graph-->
-[![Mohd Adil's github activity graph](https://activity-graph.herokuapp.com/graph?username=adilsiddiqui70786&theme=xcode&bg_color=010811&color=F3CCAE&line=F5F3E4&point=F26F2D&hide_border=true)](https://github.com/adilsiddiqui70786)
-  
-  
-***
+![that's the Contribution graph.](https://raw.githubusercontent.com/adilsiddiqui70786/adilsiddiqui70786/output/github-contribution-grid-snake.gif)
+
+[![Mohd Adil's github activity graph](https://frantic-pullover-tuna.cyclic.app/graph?username=adilsiddiqui70786&theme=xcode&bg_color=010811&color=F3CCAE&line=F5F3E4&point=F26F2D&area=true&hide_border=true)](https://github.com/adilsiddiqui70786)
+
+ **Visitor Count**
+ ![Visitor Count](https://profile-counter.glitch.me/{adilsiddiqui70786}/count.svg)
+
+***  
+
 
 
 
