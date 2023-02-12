@@ -7,12 +7,12 @@
 <h3 align="center">Currently, I am a Student pursuing my Bachelor's Degree "BCA" from University of Allahabad.</h3>
 
 ## :man_technologist:About Me
-- 🌱 I’m currently learning Java , Android Studio and Mysql...
+- 🌱 I’m currently learning C++ and Android Studio..
 - 💬 Ask me about C , DSA , Java 
 - 🏫 Know about LINUX Operating System..
-- ✨ Interested in exploring the possibilities of Android App Development
+- ✨ Interested in exploring the possibilities of Android App Development 
 - ⚡ Fun fact: I think I am serious about my life 😌
-## 💻 Tech Stack
+## 💻 Tech Stack 
 
 | Categories      | Tools / Skills |
 | ----------- | ----------- |
