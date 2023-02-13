@@ -9,7 +9,7 @@
 ## :man_technologist:About Me
 - 🌱 I’m currently learning C++ and Android Studio.
 - 🏫 I wanna learn everything..
-- ✨ Interested in exploring the possibilities of Android App Development 
+- ✨ Interested in exploring the Architecture of processor 
 - ⚡ Fun fact: I think I am serious about my life 😌
 ## 💻 Tech Stack 
 
