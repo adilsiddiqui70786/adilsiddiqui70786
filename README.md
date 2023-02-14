@@ -7,18 +7,17 @@
 <h3 align="center">Currently, I am a Student pursuing my Bachelor's Degree "BCA" from University of Allahabad.</h3>
 
 ## :man_technologist:About Me
-- 🌱 I’m currently learning C++ and Android Studio.
-- 🏫 I wanna learn everything..
+- 🌱 Currently learning C++ 
+- 🏫 Upgrading Coding skills
 - ✨ Interested in exploring the Architecture of processor 
 - ⚡ Fun fact: I think I am serious about my life 😌
+
 ## 💻 Tech Stack 
 
 | Categories      | Tools / Skills |
 | ----------- | ----------- |
-| 👩‍💻 Languages     | ![Mohd Adil](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Mohd Adil](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Mohd Adil](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)  |
+| 👩‍💻 Languages  | ![Mohd Adil](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)  |
 | ⚡ Database   | ![Mohd Adil](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)    |
-| 👩‍💻 IDE    | ![Mohd Adil](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important) ![Mohd Adil](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Mohd Adil](https://img.shields.io/badge/AndroidStudio-4EA94B?style=for-the-badge&logo=AndroidStudio&logoColor=white) |
-| 📚 Education  | ![Mohd Adil](https://img.shields.io/badge/YouTube-D14836?style=for-the-badge&logo=YouTube&logoColor=white) |
 | 📱 OS         | ![Mohd Adil](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) |
 | 📈 Version Control | ![Mohd Adil](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Mohd Adil](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  |
 ## 📫 How to reach me
