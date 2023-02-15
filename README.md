@@ -43,7 +43,7 @@
 
 [![Mohd Adil's github activity graph](https://frantic-pullover-tuna.cyclic.app/graph?username=adilsiddiqui70786&theme=xcode&bg_color=010811&color=F3CCAE&line=F5F3E4&point=F26F2D&area=true&hide_border=true)](https://github.com/adilsiddiqui70786)
 
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Priyanshii11&bg_color=e59ac2&color=403b3f&line=d04ec7&point=8d256c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" /></div>
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=adilsiddiqui70786&bg_color=e59ac2&color=403b3f&line=d04ec7&point=8d256c&area=true&hide_border=true)](https://github.com/adilsiddiqui70786/github-readme-activity-graph" /></div>
 <br/>
 
  **Visitor Count**
