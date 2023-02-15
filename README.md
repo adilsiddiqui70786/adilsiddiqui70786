@@ -48,7 +48,7 @@
 
 ***  
  <!-- Contribution Graph-->
-Look !! My contribution graph is getting eaten... 😶
+Watch a snake 🐍 eating my contribution graph 
  ---
 <p align="center">
 <img src="https://github.com/adilsiddiqui70786/adilsiddiqui70786/blob/output/github-contribution-grid-snake.svg">
