@@ -40,11 +40,6 @@
 | ![Mohd Adil](https://github-readme-stats.vercel.app/api?username=adilsiddiqui70786&show_icons=true&theme=dark&count_private=true&text_color=F5F3E4&icon_color=F26F2D&title_color=F26F2D)          | ![Mohd Adil](https://github-readme-streak-stats.herokuapp.com/?user=adilsiddiqui70786&theme=dark&hide_border=true&background=010811&fire=F26F2D&ring=F3CCAE&stroke=F5F3E4&currStreakLabel=F26F2D&sideNums=F26F2D&sideLabels=F3CCAE)  |
 | ![Mohd Adil](https://github-readme-stats.vercel.app/api/top-langs/?username=adilsiddiqui70786&layout=compact&theme=dark&langs_count=6&count_private=true&text_color=F5F3E4&title_color=F3CCAE)   | ![Mohd Adil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adilsiddiqui70786&theme=gruvbox)        |
 
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=adilsiddiqui70786&bg_color=e59ac2&color=403b3f&line=d04ec7&point=8d256c&area=true&hide_border=true)](https://github.com/adilsiddiqui70786/github-readme-activity-graph" /></div>
-<br/>
-
- **Visitor Count**
- ![Visitor Count](https://profile-counter.glitch.me/{adilsiddiqui70786}/count.svg)
 
 ***  
  <!-- Contribution Graph-->
@@ -53,7 +48,12 @@
 <img src="https://github.com/adilsiddiqui70786/adilsiddiqui70786/blob/output/github-contribution-grid-snake.svg">
 </p>
 
+<div align="center">
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=adilsiddiqui70786&bg_color=e59ac2&color=403b3f&line=d04ec7&point=8d256c&area=true&hide_border=true)](https://github.com/adilsiddiqui70786/github-readme-activity-graph" width="700px"  /></div>
+<br/>
 
+**Visitor Count**
+![Visitor Count](https://profile-counter.glitch.me/{adilsiddiqui70786}/count.svg)
 
 <!--
 **adilsiddiqui70786/adilsiddiqui70786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
