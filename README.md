@@ -48,9 +48,7 @@
 
 ***  
  <!-- Contribution Graph-->
-<div align="center" width="30px">
-Watch a snake 🐍 eating my contribution graph 
- ---
+<h3 align="center"> Watch a snake 🐍 eating my contribution graph </h3>
 <p align="center">
 <img src="https://github.com/adilsiddiqui70786/adilsiddiqui70786/blob/output/github-contribution-grid-snake.svg">
 </p>
