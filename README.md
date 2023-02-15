@@ -48,7 +48,7 @@
 
 ***  
  <!-- Contribution Graph-->
-<div align="center"> width="30px">
+<div align="center" width="30px">
 Watch a snake 🐍 eating my contribution graph 
  ---
 <p align="center">
