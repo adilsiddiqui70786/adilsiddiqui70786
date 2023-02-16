@@ -18,7 +18,7 @@
 | ----------- | ----------- |
 | 👩‍💻 Languages  | ![Mohd Adil](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)  |
 | ⚡ Database   | ![Mohd Adil](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)    |
-| 📱 OS         | ![Mohd Adil](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) |
+| 📱 OS         | ![Mohd Adil](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)![Mohd Adil](https://img.shields.io/badge/Linux-F05032?style=for-the-badge&logo=Linux&logoColor=white)|
 | 📈 Version Control | ![Mohd Adil](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Mohd Adil](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  |
 ## 📫 How to reach me
 
