@@ -12,7 +12,7 @@
 - 🌱 Currently learning C++ 
 - 🏫 Upgrading Coding skills
 - ✨ Interested in exploring the study of processor 
-- ⚡ Fun fact: I think I am serious about my life 😌
+- ⚡ Fun fact: I think , I am serious about my life 😌
 
 ## 💻 Tech Stack 
 
