@@ -7,6 +7,7 @@
 <h3 align="center">Currently, I am a Student pursuing my Bachelor's Degree "BCA" from University of Allahabad.</h3>
 
 ## :man_technologist:About Me
+- 👨‍ Coding everyday
 - 🌱 Currently learning C++ 
 - 🏫 Upgrading Coding skills
 - ✨ Interested in exploring the Architecture of processor 
