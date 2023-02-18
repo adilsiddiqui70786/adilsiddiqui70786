@@ -11,7 +11,7 @@
 - 🫴 Wanna Start new Journey
 - 🌱 Currently learning C++ 
 - 🏫 Upgrading Coding skills
-- ✨ Interested in exploring of processors
+- ✨ Interested in exploring of processor
 - ⚡ Fun fact: I think , I am serious about my life 😌
 
 ## 💻 Tech Stack 
