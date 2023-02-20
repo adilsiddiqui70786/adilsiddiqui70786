@@ -8,7 +8,7 @@
 
 ## :man_technologist:About Me
 - 👨‍💻 Coding everyday
-- 🫴 Wanna Start new Journey
+- 🫴 Wanna start new Journey
 - 🌱 Currently learning C++ 
 - 🏫 Upgrading Coding skills
 - ✨ Interested in exploring of processor
