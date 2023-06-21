@@ -7,8 +7,8 @@
 <h3 align="center">Currently, I am a Student pursuing my Bachelor's Degree "BCA" from University of Allahabad</h3>
 
 ## :man_technologist:About Me
-- 👨‍💻 Coding everyday
-- 🌱 Currently learning CSS
+- 👨‍💻 Ask me about C++ and Java
+- 🌱 I’m Currently learning CSS
 - 🏫 Upgrading Coding skills
 - ⚡ Fun fact: I think , I am serious about my life 😌
 
@@ -36,7 +36,7 @@
  |  Stats                                                                                                                                                                                             |  Stats                                                                                                                               |
 | -----------                                                                                                                                                                                        | -----------                                                                                                                          |
 | ![Mohd Adil](https://github-readme-stats.vercel.app/api?username=adilsiddiqui70786&show_icons=true&theme=dark&count_private=true&text_color=F5F3E4&icon_color=F26F2D&title_color=F26F2D)          | ![Mohd Adil](https://github-readme-streak-stats.herokuapp.com/?user=adilsiddiqui70786&theme=dark&hide_border=true&background=010811&fire=F26F2D&ring=F3CCAE&stroke=F5F3E4&currStreakLabel=F26F2D&sideNums=F26F2D&sideLabels=F3CCAE)  |
-| ![Mohd Adil](https://github-readme-stats.vercel.app/api/top-langs/?username=adilsiddiqui70786&layout=compact&theme=dark&langs_count=6&count_private=true&text_color=F5F3E4&title_color=F3CCAE)   | ![Mohd Adil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adilsiddiqui70786&theme=gruvbox)        |
+| ![Mohd Adil](https://github-readme-stats.vercel.app/api/top-langs/?username=adilsiddiqui70786&layout=compact&theme=dark&langs_count=6&count_private=true&text_color=F5F3E4&title_color=F3CCAE)   | ![Mohd Adil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adilsiddiqui70786&theme=gruvbox)     |
 
 
 ***  
