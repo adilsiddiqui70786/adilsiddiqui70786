@@ -47,7 +47,7 @@
 </p>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=adilsiddiqui70786&bg_color=e59ac2&color=403b3f&line=d04ec7&point=8d256c&area=true&hide_border=true)](https://github.com/adilsiddiqui70786/github-readme-activity-graph" width="700px"  /></div>
+<img src="https://github-readme-activity-graph.vercel.app graph?username=adilsiddiqui70786&bg_color=e59ac2&color=403b3f&line=d04ec7&point=8d256c&area=true&hide_border=true)](https://github.com/adilsiddiqui70786/github-readme-activity-graph" width="700px"  /></div>
 <br/>
 
 **Visitor Count**
