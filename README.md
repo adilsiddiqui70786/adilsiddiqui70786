@@ -8,7 +8,7 @@
 
 ## :man_technologist:About Me
 - 👨‍💻 Ask me about C++ and Java
-- 🌱 I’m Currently learning CSS
+- 🌱 I’m Currently learning Full Stack Web Development
 - 🏫 Upgrading Coding skills
 - ⚡ Fun fact: I think , I am serious about my life 😌
 
