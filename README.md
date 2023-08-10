@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d7391.gif" width="400px" />
+<img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="400px" />
 </div>
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohd Adil ❤️</h1>
 
@@ -7,29 +7,31 @@
 <h3 align="center">Currently, I am a Student pursuing my Bachelor's Degree "BCA" from University of Allahabad</h3>
 
 ## :man_technologist:About Me
-- 👨‍💻 Ask me about C++ and Java
+- 👨‍💻 Ask me about HTML and Java
 - 🌱 I’m Currently learning Full Stack Web Development
 - 🏫 Upgrading Coding skills
 - ⚡ Fun fact: I think , I am serious about my life 😌
 
-## 💻 Tech Stack 
+## 🚀 Languages and Tools:
 
-![C](https://img.shields.io/badge/C-1C8D73?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-6A1B4D?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)![Linux](https://img.shields.io/badge/Linux-03203C?style=for-the-badge&logo=Linux&logoColor=white) 
+<p align="left"> 
+    <a href="#"> <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png"/> </a>
+    <a href="#"> <img src="https://img.icons8.com/color/96/000000/html-5--v1.png"/> </a> 
+    <a href="#"> <img src="https://img.icons8.com/color/96/000000/css3.png"/> </a> 
+    <a href="#"> <img src="https://img.icons8.com/color/96/000000/bootstrap.png"/> </a> 
+    <a href="#"> <img src="https://img.icons8.com/color/96/000000/mysql-logo.png"/> </a>
+    <a href="#"> <img src="https://img.icons8.com/color/96/000000/git.png"/> </a>
+    <a href="#"> <img src="https://img.icons8.com/ios-filled/100/000000/github.png"/> </a> 
+    <a href="#"> <img src="https://img.icons8.com/color/96/000000/visual-studio--v2.png"/> </a>
+    <a href="#"> <img src="https://img.icons8.com/color/96/000000/linux--v1.png"/> </a> 
+    <a href="#"> <img src="https://img.icons8.com/color/96/windows-10.png"/> </a>
+    <a href="#"> <img src="https://img.icons8.com/color/96/000000/c-sharp-logo-2.png"/> </a>
+    <a href="#"> <img src="https://img.icons8.com/color/96/000000/adobe-photoshop--v1.png"/> </a>   
+</p>
 
 
-![Windows](https://img.shields.io/badge/windows-3944F7?style=for-the-badge&logo=windows&logoColor=white) ![Android](https://img.shields.io/badge/Android-1FAA59?style=for-the-badge&logo=Android&logoColor=black) ![Android Studio](https://img.shields.io/badge/Androidstudio-00BC404C3AE3?style=for-the-badge&logo=Androidstudio&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-## 📫 How to reach me
-
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddiquiadil70786.com)
-  
-***
-
-## 📱 My Social Handles
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddiquiadil70786)
-[![Instagram](https://img.shields.io/badge/Instagram-ea3991?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adilsiddiqui70786/)
-  
-
+## 💻 Android Development
+ ![Android](https://img.shields.io/badge/Android-1FAA59?style=for-the-badge&logo=Android&logoColor=black) ![Android Studio](https://img.shields.io/badge/Androidstudio-00BC404C3AE3?style=for-the-badge&logo=Androidstudio&logoColor=black)
 
 ## 📊 My Github Stats
 
@@ -41,14 +43,25 @@
 
 ***  
  <!-- Contribution Graph-->
-<h3 align="center"> Watch a Snake 🐍 eating my contribution graph </h3>
+<h3 align="center"> a snake is🐍 eating my contribution graph📈 </h3>
 <p align="center">
 <img src="https://github.com/adilsiddiqui70786/adilsiddiqui70786/blob/output/github-contribution-grid-snake.svg">
 </p>
 
+
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=adilsiddiqui70786&theme=xcode&bg_color=FBEAEB&color=2F3C7E&line=d04ec7&point=8d256c&area=true&hide_border=true)](https://github.com/adilsiddiqui70786/github-readme-activity-graph" width="700px"  /></div>
 <br/>
+
+## 📧 Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/adilsiddiqui70786" target="_main"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/adilsiddiqui70786"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
+</p>
+
+<br>
 
 **Visitor Count**
 ![Visitor Count](https://profile-counter.glitch.me/{adilsiddiqui70786}/count.svg)
