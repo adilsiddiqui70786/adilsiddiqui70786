@@ -3,10 +3,6 @@
 </div>
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohd Adil ❤️</h1>
 
-_______________________________________________________________________________
-
-     Let's Chase IT 🦅..
-_______________________________________________________________________________
 <h3 align="center">Currently, I am a Student pursuing my Bachelor's Degree "BCA" from University of Allahabad</h3>
 
 ## :man_technologist:About Me
@@ -68,6 +64,9 @@ _______________________________________________________________________________
 
 **Visitor Count**
 ![Visitor Count](https://profile-counter.glitch.me/{adilsiddiqui70786}/count.svg)
+
+     Let's Chase IT 🦅..
+_______________________________________________________________________________
 
 <!--
 **adilsiddiqui70786/adilsiddiqui70786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
