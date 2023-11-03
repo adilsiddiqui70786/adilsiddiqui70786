@@ -6,11 +6,11 @@
 <h3 align="center">Currently, I am a Student pursuing my Bachelor's Degree "BCA" from University of Allahabad</h3>
 
 ## :man_technologist:About Me
-- 👨‍💻 Ask me about HTML/CSS and Java
-- 🌱 I’m Currently learning Full Stack Web Development
-- 🏫 Upgrading Coding skills
+- 🌱 Currently dedicated to mastering JavaScript, always eager to push the boundaries of my coding knowledge.
+- 👨‍💻 Engaging in a conversation about web development is something I'm truly enthusiastic about.
+- 🏫 Continuously upgrading my coding skills to stay at the cutting edge
 - 😊 Happy to Collaborating on open-source projects 
-- ⚡ Fun fact: I think , I am serious about my life 😌
+- ⚡ Fun fact: I may seem serious about my life, but I enjoy having a good time 😌
 
 ## 🚀 Languages and Tools:
 
