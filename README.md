@@ -7,7 +7,7 @@
 <h3 align="center">Currently, I am a Student pursuing my Bachelor's Degree "BCA" from University of Allahabad</h3>
 
 ## :man_technologist:About Me
-- 🌱 Currently dedicated to mastering JavaScript, always eager to push the boundaries of my coding knowledge.
+- 🌱 Currently learning JavaScript, always eager to push the boundaries of my coding knowledge.
 - 👨‍💻 Engaging in a conversation about web development is something I'm truly enthusiastic about.
 - 🏫 Continuously upgrading my coding skills to stay at the cutting edge
 - 😊 Happy to Collaborating on open-source projects 
