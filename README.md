@@ -63,11 +63,26 @@
 
 <br>
 
-**Visitor Count**
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```ruby
+CONST mohdAdil = {
+  pronouns: "He" | "him",
+  database: ["MongoDB", "mySQL",],
+  backend:  ["Nodejs", "ExpressJS"],
+  frontend: ["HTML", "Javascript", "ReactJs", "CSS"],
+  challenge: "I love to take hards challengez to develop interesting websites ."
+}
+```
+     Let's Chase IT 🦅..
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to connecting with different people ❤️</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+<br>
+
 ![Visitor Count](https://profile-counter.glitch.me/{adilsiddiqui70786}/count.svg)
 
-     Let's Chase IT 🦅..
-_______________________________________________________________________________
+
 
 <!--
 **adilsiddiqui70786/adilsiddiqui70786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
