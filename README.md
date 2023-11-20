@@ -13,6 +13,16 @@
 - ⚡ Fun fact: I may seem serious about my life, but I enjoy having a good time 😌
 
 ## 🚀 Languages and Tools:
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
+![Bootstrap](https://img.shields.io/badge/-Bootstarp-%231a202c?style=flat-square&logo=tailwind-css)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+
+
+
 
 <p align="left"> 
     <a href="#"> <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png"/> </a>
@@ -30,15 +40,17 @@
 </p>
 
 
+
 ## 💻 Android Development
  ![Android](https://img.shields.io/badge/Android-1FAA59?style=for-the-badge&logo=Android&logoColor=black) ![Android Studio](https://img.shields.io/badge/Androidstudio-00BC404C3AE3?style=for-the-badge&logo=Androidstudio&logoColor=black)
 
 ## 📊 My Github Stats
 
- |  Stats                                                                                                                                                                                             |  Stats                                                                                                                               |
+|  Stats                                                                                                                                                                                             |  Stats                                                                                                                               |
 | -----------                                                                                                                                                                                        | -----------                                                                                                                          |
-| ![Mohd Adil](https://github-readme-stats.vercel.app/api?username=adilsiddiqui70786&show_icons=true&theme=dark&count_private=true&text_color=F5F3E4&icon_color=F26F2D&title_color=F26F2D)          | ![Mohd Adil](https://github-readme-streak-stats.herokuapp.com/?user=adilsiddiqui70786&theme=dark&hide_border=true&background=010811&fire=F26F2D&ring=F3CCAE&stroke=F5F3E4&currStreakLabel=F26F2D&sideNums=F26F2D&sideLabels=F3CCAE)  |
-| ![Mohd Adil](https://github-readme-stats.vercel.app/api/top-langs/?username=adilsiddiqui70786&layout=compact&theme=dark&langs_count=6&count_private=true&text_color=F5F3E4&title_color=F3CCAE)   | ![Mohd Adil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adilsiddiqui70786&theme=gruvbox)     |
+| ![Mohd Adil](https://github-readme-stats.vercel.app/api?username=adilsiddiqui70786&show_icons=true&theme=dark&count_private=true&text_color=F5F3E4&icon_color=F26F2D&title_color=F26F2D&bg_color=000000&hide_border=true)          | ![Mohd Adil](https://github-readme-streak-stats.herokuapp.com/?user=adilsiddiqui70786&theme=dark&hide_border=true&background=000000&fire=F26F2D&ring=F3CCAE&stroke=F5F3E4&currStreakLabel=F26F2D&sideNums=F26F2D&sideLabels=F3CCAE)  |
+| ![Mohd Adil](https://github-readme-stats.vercel.app/api/top-langs/?username=adilsiddiqui70786&layout=compact&theme=dark&langs_count=6&count_private=true&text_color=F5F3E4&title_color=F3CCAE&bg_color=000000)   | ![Mohd Adil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adilsiddiqui70786&theme=gruvbox)     |
+
 
 
 ***  
@@ -49,15 +61,9 @@
 </p>
 
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adilsiddiqui70786&theme=xcode&bg_color=FBEAEB&color=2F3C7E&line=d04ec7&point=8d256c&area=true&hide_border=true)](https://github.com/adilsiddiqui70786/github-readme-activity-graph" width="700px"  /></div>
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=adilsiddiqui70786&bg_color=0000000&color=2980b9&line=2980b9&point=27ae60&area_color=2980b9&area=true&hide_border=true)
 <br/>
 
-## 📧 Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/adilsiddiqui70786" target="_main"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/adilsiddiqui70786"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
 
