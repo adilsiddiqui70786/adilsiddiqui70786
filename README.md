@@ -39,7 +39,7 @@
 
 ## 📊 My Github Streak
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adilsiddiqui70786&theme=dark&hide_border=true&background=000000&fire=F26F2D&ring=F3CCAE&stroke=F5F3E4&currStreakLabel=F26F2D&sideNums=F26F2D&sideLabels=F3CCAE" alt="GitHub Streak Stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adilsiddiqui70786&theme=dark&hide_border=true&background=000000&fire=2980b9&ring=2980b9&stroke=2980b9&currStreakLabel=2980b9&sideNums=2980b9&sideLabels=2980b9" alt="GitHub Streak Stats">
 </div>
  <!-- | ![Mohd Adil](https://github-readme-stats.vercel.app/api/top-langs/?username=adilsiddiqui70786&layout=compact&theme=dark&langs_count=6&count_private=true&text_color=F5F3E4&title_color=F3CCAE&bg_color=000000)   | ![Mohd Adil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adilsiddiqui70786&theme=gruvbox)     | -->
 
