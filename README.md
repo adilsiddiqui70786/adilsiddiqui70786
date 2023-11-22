@@ -15,7 +15,7 @@
 - ⚡ Fun fact: I may seem serious about my life, but I enjoy having a good time 😌
 
 
-## Technology Used - 
+## Technology and Tools - 
 
 <p align="left"> 
     <a href="#"> <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png"/> </a>
