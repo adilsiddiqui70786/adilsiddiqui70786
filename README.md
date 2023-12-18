@@ -1,6 +1,4 @@
 
-
-
 <div align="center">
 <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="400px" />
 </div>
@@ -10,9 +8,9 @@
 
 
 ## :man_technologist:About Me
-- 🌱 Currently learning JavaScript, always eager to push the boundaries of my coding knowledge.
-- 👨‍💻 Engaging in a conversation about web development is something I'm truly enthusiastic about.
-- 🏫 Continuously upgrading my coding skills to stay at the cutting edge
+- 🌱 Currently learning JavaScript.
+- 👨‍💻 web development is something I'm truly enthusiastic about.
+- 🏫 Continuously upgrading my coding skills 
 - 😊 Happy to Collaborating on open-source projects 
 - ⚡ Fun fact: I may seem serious about my life, but I enjoy having a good time 😌
 
