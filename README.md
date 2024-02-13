@@ -7,7 +7,7 @@
 
 
 ## :man_technologist:About Me
-- 🌱 Currently learning JavaScript.
+- 🌱 Currently learning React.js.
 - 👨‍💻 web development is something I'm truly enthusiastic about.
 - 🏫 Continuously upgrading my coding skills 
 - 😊 Happy to Collaborating on open-source projects 
